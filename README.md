@@ -1,2 +1,3 @@
-# API Playground
-
+Explaination on how to get it running ...
+If you want, I can create a docker file that will start everything , flask and react 
+service etc into a container

@@ -1,0 +1,6 @@
+google-generativeai
+Flask
+requests
+python-dotenv
+flask-cors
+duckduckgo-search
