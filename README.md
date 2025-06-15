@@ -1,3 +1,1 @@
-Explaination on how to get it running ...
-If you want, I can create a docker file that will start everything , flask and react 
-service etc into a container
+Setup flask and next.js frontend to run the project
