@@ -17,6 +17,7 @@ const RouteSelect = () => {
         <Route onClick={() => setSelectedRoute("Map")} Icon={FaMap} selected={selectedRoute === "Map"} title="Map"></Route>
         <Route onClick={() => setSelectedRoute("RMap")} Icon={FaMap} selected={selectedRoute === "RMap"} title="Rainfall Map"></Route>
         <Route onClick={() => setSelectedRoute("Database")} Icon={FaMap} selected={selectedRoute === "Database"} title="Supabase Information"></Route>
+        <Route onClick={() => setSelectedRoute("New Branch Page")} Icon={FaMap} selected={selectedRoute === "New Branch Page"} title="Branched Page"></Route>
     
         
   </div>
